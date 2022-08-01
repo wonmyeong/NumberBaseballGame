@@ -23,7 +23,7 @@ private:
 	string userNumberString;
 	int numOfStrike;
 	int numOfBall;
-	bool isGameDone;
+	bool m_isGameDone;
 };
 =======
 >>>>>>> a9b8b88044ce6ae9ba14164ea762fd1221fbfbaa
