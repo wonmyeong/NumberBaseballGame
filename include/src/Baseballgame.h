@@ -17,7 +17,8 @@ public:
 
 private:
 	generate3DigitRandomNumber();
-
+	isInputNumberWrong();
+	bool isNumber(char ch);
 private:
 	string answerNumberString;
 	string userNumberString;
